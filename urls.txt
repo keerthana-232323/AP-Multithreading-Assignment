@@ -1,0 +1,7 @@
+https://www.w3.org/TR/PNG/iso_8859-1.txt
+https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv
+https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png
+https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf
+https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-zip-file.zip
+https://www.learningcontainer.com/wp-content/uploads/2020/04/sample-text-file.txt
+https://www.sample-videos.com/img/Sample-jpg-image-50kb.jpg
