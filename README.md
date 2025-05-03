@@ -13,3 +13,10 @@ This Python program downloads multiple files sequentially and concurrently using
 # Requirements
 - Python 3.x
 - `requests` module: install using `pip install requests`
+
+# How to Run
+``` bash
+python threaded_mergesort.py
+python threaded_quicksort.py
+python concurrent_file_downloading.py
+```
