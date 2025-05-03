@@ -8,7 +8,6 @@ lock = threading.Lock()
 
 
 def quicksort(arr, low, high):
-    """Single-threaded quicksort implementation."""
     if low < high:
         pivot_index = partition(arr, low, high)
         quicksort(arr, low, pivot_index - 1)
@@ -16,7 +15,6 @@ def quicksort(arr, low, high):
 
 
 def partition(arr, low, high):
-    """Partition the array around a pivot."""
     pivot = arr[high]
     i = low - 1
     for j in range(low, high):
@@ -28,7 +26,6 @@ def partition(arr, low, high):
 
 
 def threaded_quicksort(arr, low, high):
-    """Multi-threaded quicksort implementation."""
     global current_threads
 
     if low < high:
